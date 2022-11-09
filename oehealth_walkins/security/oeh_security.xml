@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+
+        <!-- Walkins -->
+        <record model='ir.ui.menu' id='oeh_medical_register_for_walkin_list'>
+            <field name="groups_id" eval="[(6,0,[ref('oehealth.group_oeh_medical_manager'),ref('oehealth.group_oeh_medical_physician')])]"/>
+        </record>
+
+    </data>
+</openerp>
