@@ -1,7 +1,7 @@
 {
-    'name': 'oeHealth - Patient Walkins Management',
+    'name': 'SFHealth - Patient Walkins Management',
     'version': '1.0',
-    'author': "Braincrew Apps",
+    'author': "Solutionfounder",
     'category': 'Medical',
     'summary': 'Quickly record daily patient walkins',
     'depends': ['oehealth'],
@@ -18,7 +18,7 @@ Features Includes:
 
 
 """,
-    "website": "http://oehealth.in",
+    "website": "http://solutionfounder.com",
     "data": [
 
         'views/oeh_medical_register_for_walkin_view.xml',

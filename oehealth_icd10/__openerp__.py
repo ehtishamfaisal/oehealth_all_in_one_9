@@ -1,13 +1,8 @@
 # -*- encoding: utf-8 -*-
-##############################################################################
-#    Copyright (C) 2015 oeHealth (<http://oehealth.in>). All Rights Reserved
-#    oeHealth, Hospital Management Solutions
-##############################################################################
-
 {
-    'name': 'oeHealth ICD-10',
+    'name': 'SFHealth ICD-10',
     'version': '1.0',
-    'author': 'oeHealth',
+    'author': 'Solutionfounder',
     'category': 'Generic Modules/Medical',
     'summary': 'International Classification of Diseases',
     'depends': ['oehealth'],
@@ -16,7 +11,7 @@
     World Health Organization - International Classification of Diseases for MEDICAL (10th revision)
 
     """,
-    "website": "http://oehealth.in",
+    "website": "http://solutionfounder.com",
     "init": [],
     "data": [
               "data/oeh_disease_categories.xml",

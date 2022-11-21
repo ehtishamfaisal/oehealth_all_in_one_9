@@ -1,29 +1,24 @@
-##############################################################################
-#    Copyright (C) 2015 oeHealth (<http://oehealth.in>). All Rights Reserved
-#    oeHealth, Hospital Management Solutions
-##############################################################################
-
 {
-    'name': 'oeHealth Premium',
+    'name': 'SFHealth Premium',
     'version': '1.0',
-    'author': "oeHealth",
+    'author': "solutionfounder",
     'category': 'Generic Modules/Medical',
     'summary': 'Odoo Hospital Management Solutions',
     'depends': ['base', 'sale', 'purchase', 'account', 'product','document','hr','web'],
     'description': """
 
-About oeHealth
+About SFHealth
 ---------------
 
-oeHealth is a multi-user, highly scalable, centralized Electronic Medical Record (EMR) and Hospital Information System for Odoo.
+Health is a multi-user, highly scalable, centralized Electronic Medical Record (EMR) and Hospital Information System for Odoo.
 
 Manage your patients with their important details including family info, prescriptions, appointments, diseases, insurances, lifestyle,mental & social status, lab test details, invoices and surgical histories.
 
 Administer all your doctors with their complete details, weekly consultancy schedule, prescriptions, inpatient admissions and many more.
 
-Allow your doctors and patients to login inside your oeHealth system to manage their appointments. oeHealth is tightly integrated with Odoo’s calendar control so you will be always updated for your upcoming schedules.
+Allow your doctors and patients to login inside your SFHealth system to manage their appointments. SFHealth is tightly integrated with Odoo’s calendar control so you will be always updated for your upcoming schedules.
 """,
-    "website": "http://oehealth.in",
+    "website": "http://solutionfounder.com",
     "data": [
         'sequence/oeh_sequence.xml',
         'oeh_navigation.xml',

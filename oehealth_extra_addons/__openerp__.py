@@ -1,13 +1,13 @@
 {
-    'name': 'oeHealth Extra Addons',
+    'name': 'SFHealth Extra Addons',
     'version': '1.0',
-    'author': "Braincrew Apps",
+    'author': "Solutionfounder",
     'category': 'Generic Modules/Medical',
     'summary': 'Pediatrics, Nursing, Surgical, Ophthalmology, Imaging, Neglected Tropical Diseases and Procedure Coding System Management',
     'depends': ['oehealth','product'],
     'description': """
 
-About oeHealth Extra Addons
+About SFHealth Extra Addons
 ----------------------------
 
 
@@ -51,7 +51,7 @@ About oeHealth Extra Addons
 8) Procedure Coding System for Medical : ICD-10-PCS
 
 """,
-    "website": "http://oehealth.in",
+    "website": "http://solutionfounder.com",
     "data": [
         'sequence/oeh_sequence.xml',
 
